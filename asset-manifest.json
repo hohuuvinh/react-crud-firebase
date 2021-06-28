@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/creact-crud-firebase/static/css/main.1635e87c.chunk.css",
+    "main.js": "/creact-crud-firebase/static/js/main.3537f2de.chunk.js",
+    "main.js.map": "/creact-crud-firebase/static/js/main.3537f2de.chunk.js.map",
+    "runtime-main.js": "/creact-crud-firebase/static/js/runtime-main.820d87e5.js",
+    "runtime-main.js.map": "/creact-crud-firebase/static/js/runtime-main.820d87e5.js.map",
+    "static/js/2.113603df.chunk.js": "/creact-crud-firebase/static/js/2.113603df.chunk.js",
+    "static/js/2.113603df.chunk.js.map": "/creact-crud-firebase/static/js/2.113603df.chunk.js.map",
+    "static/js/3.d17c9c74.chunk.js": "/creact-crud-firebase/static/js/3.d17c9c74.chunk.js",
+    "static/js/3.d17c9c74.chunk.js.map": "/creact-crud-firebase/static/js/3.d17c9c74.chunk.js.map",
+    "index.html": "/creact-crud-firebase/index.html",
+    "static/css/main.1635e87c.chunk.css.map": "/creact-crud-firebase/static/css/main.1635e87c.chunk.css.map",
+    "static/js/2.113603df.chunk.js.LICENSE.txt": "/creact-crud-firebase/static/js/2.113603df.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/creact-crud-firebase/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.820d87e5.js",
+    "static/js/2.113603df.chunk.js",
+    "static/css/main.1635e87c.chunk.css",
+    "static/js/main.3537f2de.chunk.js"
+  ]
+}
