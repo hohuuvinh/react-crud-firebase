@@ -13,7 +13,7 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.0.1"
   },
-  "homepage": "https://hohuuvinh1999.github.io/crud-firebase",
+  "homepage": "https://hohuuvinh1999.github.io/creact-crud-firebase",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
